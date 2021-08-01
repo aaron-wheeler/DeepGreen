@@ -1,2 +1,2 @@
-# DeepGreen
+# DeepGreen.jl
 In progress....
